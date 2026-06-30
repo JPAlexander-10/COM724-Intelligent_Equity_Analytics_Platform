@@ -1,0 +1,21 @@
+Stock,Scenario,BUY %,HOLD %,SELL %,vs Baseline
+ISRG,Baseline,1.2,5.6,93.2,—
+ISRG,Volatility Spike (+50%),1.2,5.2,93.6,+0.0% BUY signals
+ISRG,Price Drop (-10%),1.2,0.0,98.8,+0.0% BUY signals
+ISRG,Bullish Momentum,1.4,1.4,97.2,+0.2% BUY signals
+ISRG,Bearish Momentum,1.2,0.0,98.8,+0.0% BUY signals
+AMAT,Baseline,14.7,3.2,82.1,—
+AMAT,Volatility Spike (+50%),11.3,1.0,87.7,-3.4% BUY signals
+AMAT,Price Drop (-10%),18.1,6.8,75.1,+3.4% BUY signals
+AMAT,Bullish Momentum,0.4,1.0,98.6,-14.3% BUY signals
+AMAT,Bearish Momentum,1.6,0.2,98.2,-13.1% BUY signals
+TMUS,Baseline,19.5,30.8,49.7,—
+TMUS,Volatility Spike (+50%),35.4,21.3,43.3,+15.9% BUY signals
+TMUS,Price Drop (-10%),46.3,15.1,38.6,+26.8% BUY signals
+TMUS,Bullish Momentum,6.2,18.3,75.5,-13.3% BUY signals
+TMUS,Bearish Momentum,35.2,16.5,48.3,+15.7% BUY signals
+TSLA,Baseline,35.6,3.0,61.4,—
+TSLA,Volatility Spike (+50%),31.8,0.8,67.4,-3.8% BUY signals
+TSLA,Price Drop (-10%),36.8,0.8,62.4,+1.2% BUY signals
+TSLA,Bullish Momentum,34.6,1.8,63.6,-1.0% BUY signals
+TSLA,Bearish Momentum,38.6,0.2,61.2,+3.0% BUY signals
